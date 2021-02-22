@@ -207,12 +207,6 @@
 0.0.0.0	deal.kinguin.net
 0.0.0.0	deathmatchclassic.com
 0.0.0.0	developer.valvesoftware.com
-0.0.0.0	dis.gd
-0.0.0.0	discord.co
-0.0.0.0	discord.com
-0.0.0.0	discord.gg
-0.0.0.0	discord.media
-0.0.0.0	discordapp.com
 0.0.0.0	dispenser.tf
 0.0.0.0	dl.tnt.gameforge.com
 0.0.0.0	dlassets-ssl.xboxlive.com
@@ -983,7 +977,6 @@
 0.0.0.0	www.cjs-cdkeys.com
 0.0.0.0	www.completionator.com
 0.0.0.0	www.dailyindiegame.com
-0.0.0.0	www.discordapp.com
 0.0.0.0	www.dlcompare.fr
 0.0.0.0	www.dlgamer.com
 0.0.0.0	www.dotabuff.com
